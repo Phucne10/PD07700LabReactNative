@@ -1,8 +1,12 @@
 import React from 'react';
-import {Text} from 'react-native';
-
-const MyLab4 = () => {
-  return <Text>Đây là lab 4</Text>;
+import {Text, View} from 'react-native';
+import ListCourse from '../../components/list';
+import {ScrollView} from 'react-native-gesture-handler';
+const Lab4 = () => {
+return (
+<View>
+<ListCourse />
+</View>
+);
 };
-
-export default MyLab4;
+export default React.memo(Lab4);
