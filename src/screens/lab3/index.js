@@ -13,7 +13,7 @@ const ViewComponent = () => {
         style={styles.tiStyle}
       />
 
-      <Text style={styles.baseText}>  {/* sửa style thành styles */}
+      <Text style={styles.baseText}>
         Em vao doi bang {' '}
         <Text style={[styles.boldText, ColorText('red')]}>Vang doc</Text>
       </Text>
