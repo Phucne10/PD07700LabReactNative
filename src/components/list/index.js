@@ -5,42 +5,42 @@ const DATA = [
 {
 Id: '1',
 Title: 'Data Structures',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '2',
 Title: 'STL',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '3',
 Title: 'STL',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '4',
 Title: 'STL',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '5',
 Title: 'STL',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '6',
 Title: 'Java',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '6',
 Title: 'Java',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 {
 Id: '6',
 Title: 'Java',
-imageSource: require('../../asstes/images/anh.png'),
+imageSource: require('../../asstes/images/anh1.png'),
 },
 ];
 
