@@ -15,7 +15,7 @@ const ViewComponent = () => {
 
       <Text style={styles.baseText}>
         Em vao doi bang {' '}
-        <Text style={[styles.boldText, ColorText('red')]}>Vang doc</Text>
+        <Text style={[styles.boldText, ColorText('red')]}>Vang Doc</Text>
       </Text>
     </View>
   );
